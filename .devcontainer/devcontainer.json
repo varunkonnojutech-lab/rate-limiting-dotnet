@@ -1,0 +1,1 @@
+{"customizations":{"image":"mcr.microsoft.com/devcontainers/dotnet:1-8-bookworm","name":"rate-limiting-dotnet","postCreateCommand":"dotnet restore","vscode":{"extensions":["ms-dotnettools.csharp"]}}}
